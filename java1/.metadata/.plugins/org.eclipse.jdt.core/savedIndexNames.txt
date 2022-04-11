@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+E:\Studium\cloud\Bachelor\3. Sem\OP\java\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3067625059.index
+1256837482.index
